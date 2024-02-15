@@ -1,8 +1,8 @@
 # RestAssuredFramework
 Created the framework using maven quickstart tempelate.
-Used Cucumber for Behaviour Driven Development
-Used Junit as the test runner 
-Used damianszczepanik/Maven-cucummber-reporting plugin for test reports
+Used Cucumber for Behaviour Driven Development.
+Used Junit as the test runner.
+Used damianszczepanik/Maven-cucummber-reporting plugin for test reports.
 
 Sample Reports
 
